@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name pi1541-zero-rescue)(type Legacy)(uri ${KIPRJMOD}/pi1541-zero-rescue.lib)(options "")(descr ""))
+)
